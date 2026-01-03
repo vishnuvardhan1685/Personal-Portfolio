@@ -118,8 +118,8 @@ function App() {
       title: "Portfolio Website",
       description: "A modern, responsive portfolio website featuring a dark theme with glassmorphism design elements. Built with React and TailwindCSS, showcasing projects, skills, and experience with smooth animations and an interactive contact form.",
       techStack: "React, TailwindCSS, Framer Motion, Vite, Lucide React",
-      github: "#",
-      live: "#",
+      github: "https://github.com/vishnuvardhan1685/Personal-Portfolio.git",
+      live: "https://vishnuvardhanportfolioo.netlify.app",
       type: "Github Repo"
     },
     {
